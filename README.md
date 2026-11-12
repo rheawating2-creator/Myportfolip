@@ -1,2 +1,2 @@
 # Myportfolip
-OWN PORTFOLIO
+I developed a web-based Student Grade Management System to address the difficulties students experienced when accessing and checking their academic grades. As the developer, I was responsible for gathering the project requirements, planning the system, designing its interface, developing its features, and deploying the finished project. I used Laravel, SQL, PHP, HTML, and CSS throughout the development process. As a result, the project attained a reported 50% student satisfaction rate based on feedback. Through this experience, I gained a better understanding of the system development process and learned the importance of proper planning, understanding user requirements, and developing solutions that address users' needs.
